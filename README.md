@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://api.daily.dev/devcards/a1c9952b80d24eaba8b2bd4d395b4186.png?r=fy0
 <!--
 **xrazerz/xrazerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
