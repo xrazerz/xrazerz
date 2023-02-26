@@ -1,6 +1,5 @@
 ### Hi there 👋
-https://api.daily.dev/devcards/a1c9952b80d24eaba8b2bd4d395b4186.png?r=fy0
-<!--
+<a href="https://app.daily.dev/xrazerz"><img src="https://api.daily.dev/devcards/a1c9952b80d24eaba8b2bd4d395b4186.png?r=jo5" width="400" alt="Ismail Mohamed's Dev Card"/></a>
 **xrazerz/xrazerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
