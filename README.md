@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **xrazerz.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ar9msSWw4bJ2CzyWgL19s0-OoF4tLSwZ/view?usp=sharing](https://drive.google.com/file/d/1ar9msSWw4bJ2CzyWgL19s0-OoF4tLSwZ/view?usp=sharing)
+- 📄 Know about my experiences SOON
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
