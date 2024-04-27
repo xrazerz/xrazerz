@@ -38,7 +38,7 @@
 
 <div  >
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,ts,laravel,react,webpack,fastapi,npm,postman,redhat,blackhat,php,atom,git,github,mysql,sass,tailwindcss,stackoverflow,phpstorm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,ts,laravel,react,webpack,fastapi,npm,postman,redhat,php,atom,git,github,mysql,sass,tailwindcss,stackoverflow,phpstorm,vscode)](https://skillicons.dev)
 <br/>
 
 </div>
