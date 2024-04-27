@@ -27,9 +27,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed mahmoud" height="30" width="40" /></a>
+<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xrootedx" height="30" width="40" /></a>
 <a href="https://instagram.com/xrootedx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xrootedx" height="30" width="40" /></a>
-<a href="https://www.behance.net/ahmedmahmoud68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="xrootedx" height="30" width="40" /></a>
+<a href="https://www.behance.net/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="xrootedx" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xrootedx" height="30" width="40" /></a>
 </p>
 
@@ -38,7 +38,7 @@
 
 <div  >
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,ts,jquery,vue,react,next,gulp,webpack,redux,php,atom,git,github,mysql,pug,sass,tailwindcss,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,ts,laravel,react,webpack,php,atom,git,github,mysql,sass,tailwindcss,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
 <br/>
 
 </div>
