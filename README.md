@@ -44,3 +44,33 @@
 <br/>
 
 </div>
+
+<br>
+
+<h2 align="center">👨‍💻 More About Me on GitHub</h2>
+
+
+<details open>
+<summary><b>🔥 Streak Stats</b></summary>
+<br>
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=xrazerz&theme=radical&hide_border=true" alt="urboifox" width="420"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🏆 Github Trophies</b></summary>
+<br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=xrazerz&theme=radical&no-frame=true&no-bg=true" alt="urboifox" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚡ Github Public Stats</b></summary>
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=xrazerz&show_icons=true&theme=radical&count_private=true" alt="urboifox" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrazerz&layout=compact&theme=radical" alt="urboifox" height="165">
+</p>
+  
+</details>
