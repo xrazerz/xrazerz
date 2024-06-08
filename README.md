@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ismail Mohamed</h1>
 <h3 align="center">A Backend engineer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xrazerz&label=Profile%20views&color=0e75b6&style=flat" alt="error404" /> </p>
-
-<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xrazerz&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=xrazerz&show_icons=true&theme=radical&count_private=true" alt="urboifox" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrazerz&layout=compact&theme=radical" alt="urboifox" height="165">
+</p>
 
 <h3 align="center">
   <span>Hey there </span>
